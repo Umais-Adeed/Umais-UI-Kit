@@ -11,7 +11,7 @@ Your go-to source for UI/UX inspiration. This repo contains a weekly LinkedIn se
 This week's project is a mesmerizing, generative animation created entirely with GLSL shaders running within a Jetpack Compose application. It renders a dynamic, mosaic-like pattern of flowing lines, perfect for an eye-catching background or a standalone piece of digital art.
 
 <!-- Add a GIF or video of the animation here! -->
-`![Shader Lines Animation](assets/gifweek1.gif)`
+![Shader Lines Animation](assets/gifweek1.gif)
 
 ### ✨ Tech Stack
 *   **Framework:** Jetpack Compose
